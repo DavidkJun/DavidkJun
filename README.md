@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi! I'm David, a Software Engineering student at Kyiv Polytechnic Institute.<br>Passionate about backend development.<br>Building interesting computer applications.<br>Continuously learning new technologies.<br>Love turning ideas into real solutions.<br>
 
- <img src="https://github.com/user-attachments/assets/8c446c94-838d-4c97-813b-13f1f3c4383a" width="450"/>
+
+<img src="https://github.com/user-attachments/assets/8c230214-886b-4a3b-8163-cf13d1cf27ba" width="600" height="300" alt="githab-readme" />
 
 
 
